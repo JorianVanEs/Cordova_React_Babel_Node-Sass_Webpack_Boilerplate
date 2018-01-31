@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);body {
+  font-family: 'Lato', sans-serif;
+  margin: 10px; }
+  body button {
+    width: 80%;
+    height: 50px;
+    margin-left: 10%;
+    border: none;
+    background-color: cadetblue;
+    color: white;
+    font-size: 24px; }
+    body button:active {
+      background-color: lightseagreen;
+      transition: all 0.1s; }
+  body h1 {
+    color: cadetblue;
+    text-align: center; }
